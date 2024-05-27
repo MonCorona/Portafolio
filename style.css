@@ -5,11 +5,11 @@
   background-color: #a9def9;
 }
 .nav-item{
-  font-size: 30px;
+  font-size: 10px;
 
 }
 .logo{
-  width: 150px;
+  width: 100px;
 }
 
 .navbar-collapse {
@@ -28,7 +28,7 @@ section {
 
 h1 {
   color: #ff99c8;
-  font-size: 5rem;
+  font-size: 3.5rem;
   font-family: 'Rubik Dirt', cursive;
 }
 h2{
@@ -53,17 +53,17 @@ h2{
 }
 
 .seccion-descripcion {
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #584e4e;
 }
 
 .seccion-texto {
-  font-size: 1.7rem;
+  font-size: 1.2rem;
   margin-left: 10px;
   text-align: justify;
 }
 p{
-  font-size: 22px;
+  font-size: 15px;
 }
 .btn-info {
   font-size: 1.1rem;
@@ -91,13 +91,13 @@ p{
 }
 
 .hero-imagen-desarrollador {
-  width: 350px;
-  height: 350px;
+  width: 300px;
+  height: 300px;
   margin: 10px;
 }
 
 .hero-principal h2 {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   color: #615151;
 }
 
@@ -166,7 +166,7 @@ img {
 }
 
 .experiencia i {
-  font-size: 3rem;
+  font-size: 2rem;
   color: #ff99c8;
   background-color: #ecd9f7;
   padding: 8px 19px;
