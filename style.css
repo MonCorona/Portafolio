@@ -5,7 +5,7 @@
   background-color: #a9def9;
 }
 .nav-item{
-  font-size: 10px;
+  font-size: 20px;
 
 }
 .logo{
@@ -349,7 +349,7 @@ img {
 
 .contacto button i {
   color: white;
-  font-size: 1.3rem;
+  font-size: 1rem;
   transition: all 0.2s ease-in-out;
 }
 
@@ -370,7 +370,7 @@ footer {
 }
 
 .footer-texto {
-  font-size: 2rem;
+  font-size: 1rem;
   padding: 20px;
   margin-bottom: 30px;
   font-family: 'Quicksand', sans-serif;
